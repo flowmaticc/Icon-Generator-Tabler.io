@@ -165,8 +165,8 @@ pip install -r requirements.txt
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/flowmaticc/Icon-Generator-Tabler.io.git](https://github.com/flowmaticc/Icon-Generator-Tabler.io.git)
-cd icon-generator
+git clone https://github.com/flowmaticc/Icon-Generator-Tabler.io.git
+cd Icon-Generator-Tabler.io
 
 # 2. Create folders
 mkdir icons
@@ -237,8 +237,8 @@ Perfekt für **Designer, Entwickler und jeden**, der Icons für persönliche ode
 
 ```bash
 # 1. Repository klonen
-git clone [https://github.com/flowmaticc/Icon-Generator-Tabler.io.git](https://github.com/flowmaticc/Icon-Generator-Tabler.io.git)
-cd icon-generator
+git clone https://github.com/flowmaticc/Icon-Generator-Tabler.io.git
+cd Icon-Generator-Tabler.io
 
 # 2. Abhängigkeiten installieren
 pip install -r requirements.txt
@@ -305,8 +305,8 @@ Parfait pour **les designers, les développeurs et toute personne** ayant besoin
 
 ```bash
 # 1. Cloner le dépôt
-git clone [https://github.com/flowmaticc/Icon-Generator-Tabler.io.git](https://github.com/flowmaticc/Icon-Generator-Tabler.io.git)
-cd icon-generator
+git clone https://github.com/flowmaticc/Icon-Generator-Tabler.io.git
+cd Icon-Generator-Tabler.io
 
 # 2. Installer les dépendances
 pip install -r requirements.txt
@@ -373,8 +373,8 @@ Pythonで作成されたデスクトップツールで、**Tabler Iconsのダウ
 
 ```bash
 # 1. リポジトリのクローン
-git clone [https://github.com/flowmaticc/Icon-Generator-Tabler.io.git](https://github.com/flowmaticc/Icon-Generator-Tabler.io.git)
-cd icon-generator
+git clone https://github.com/flowmaticc/Icon-Generator-Tabler.io.git
+cd Icon-Generator-Tabler.io
 
 # 2. 依存関係のインストール
 pip install -r requirements.txt
@@ -441,8 +441,8 @@ python icon_generator.py
 
 ```bash
 # 1. Клонировать репозиторий
-git clone [https://github.com/flowmaticc/Icon-Generator-Tabler.io.git](https://github.com/flowmaticc/Icon-Generator-Tabler.io.git)
-cd icon-generator
+git clone https://github.com/flowmaticc/Icon-Generator-Tabler.io.git
+cd Icon-Generator-Tabler.io
 
 # 2. Установить зависимости
 pip install -r requirements.txt
@@ -595,8 +595,8 @@ pip install -r requirements.txt
 
 ```bash
 # 1. Clonar el repositorio
-git clone [https://github.com/flowmaticc/Icon-Generator-Tabler.io.git](https://github.com/flowmaticc/Icon-Generator-Tabler.io.git)
-cd icon-generator
+git clone https://github.com/flowmaticc/Icon-Generator-Tabler.io.git
+cd Icon-Generator-Tabler.io
 
 # 2. Crear estructura de carpetas
 mkdir icons
